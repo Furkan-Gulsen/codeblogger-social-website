@@ -61,7 +61,7 @@ ul#buttons:before {
     position: absolute;
     width: 100%;
     text-align: center;
-    margin-top: -40px;
+    margin-top: -60px;
 }
 
 ul#buttons li {
@@ -83,7 +83,7 @@ ul#buttons li a {
     display: block;
     widows: 100%;
     height: 100%;
-    font-size: 2em;
+    font-size: 3em;
     background: transparent;
     transition: .5s;
     animation: icon-out .5s forwards;
@@ -92,8 +92,8 @@ ul#buttons li a {
 
 ul#buttons li:before {
     content: "";
-    width: 90px;
-    height: 90px;
+    width: 150px;
+    height: 150px;
     display: block;
     position: absolute;
     transform: rotate(-45deg) translate(-110%, -23px);
