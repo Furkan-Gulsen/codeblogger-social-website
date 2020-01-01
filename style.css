@@ -114,60 +114,60 @@ ul#buttons li:hover:before {
 
 @keyframes back-in {
     0% {
-        transform: rotate(-45deg) translate(-110%, -23px);
+        transform: rotate(-45deg) translate(-110%, -33px);
     }
 
     80% {
-        transform: rotate(-45deg) translate(5%, -23px);
+        transform: rotate(-45deg) translate(5%, -33px);
     }
 
     100% {
-        transform: rotate(-45deg) translate(0%, -23px);
+        transform: rotate(-45deg) translate(0%, -33px);
     }
 }
 
 @keyframes back-out {
     0% {
-        transform: rotate(-45deg) translate(0%, -23px);
+        transform: rotate(-45deg) translate(0%, -33px);
     }
 
     20% {
-        transform: rotate(-45deg) translate(5%, -23px);
+        transform: rotate(-45deg) translate(5%, -33px);
     }
 
     100% {
-        transform: rotate(-45deg) translate(-110%, -23px);
+        transform: rotate(-45deg) translate(-110%, -33px);
     }
 }
 
 @keyframes icon-in {
     0% {
-        font-size: 1.25em;
+        font-size: 2.25em;
     }
 
     80% {
         color: #fff;
-        font-size: 1.5em;
+        font-size: 2.50em;
     }
 
     100% {
         color: #fff;
-        font-size: 1.35em;
+        font-size: 2.10em;
     }
 }
 
 @keyframes icon-out {
     0% {
         color: #fff;
-        font-size: 1.35em;
+        font-size: 2.10em;
     }
 
     20% {
         color: #fff;
-        font-size: 1.5em;
+        font-size: 2.25em;
     }
 
     100% {
-        font-size: 1.25em;
+        font-size: 2em;
     }
 }
