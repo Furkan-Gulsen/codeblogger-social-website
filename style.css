@@ -53,7 +53,7 @@ ul#buttons {
 }
 
 ul#buttons:before {
-    content: "Codeblogger - M.Furkan Gülşen";
+    content: "Codeblogger";
     font-size: 2em;
     font-family: Arial;
     font-weight: 300;
